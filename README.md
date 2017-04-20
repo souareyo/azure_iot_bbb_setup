@@ -22,9 +22,13 @@ Create Device:
 One can use either iothub-explorer or a Device-explorer. The first one is cross-platform and second one is designed for windows only. Both of these methods, one can use the following languages:
 
 C#
+
 Java
+
 Python
+
 NodeJs
+
 JavaScript.
 
 
@@ -34,6 +38,9 @@ Real Device in our case Beaglebone Black Rv C
 A  16 GB of a microSD Card
 Ethernet cabel
 USB cabel to power the Beaglebone
+
+A sensor tag (Temperature, pressure sensor and so on.. ).
+
 In order to connect to the device, we will need its IP address to get it I used CLOUD IDE, which is an integrated IDE in Beablebone. IP address is used to remotely connect to Beaglebone via Putty, which can be download here.
 
 
