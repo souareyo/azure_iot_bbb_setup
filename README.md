@@ -1,6 +1,6 @@
 ---
 platform: debian
-device: beaglebone-black
+device: beaglebone Black Rev C
 language: C
 ---
 
