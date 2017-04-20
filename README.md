@@ -4,7 +4,24 @@ device: beaglebone-black
 language: C
 ---
 
+Microsoft Azure Internet of things: Connecting Beaglebone Black to azure iothub
+===
+---
+
+# Table of contents
+
+-   [Introduction](#Introduction)
+-   [Device Setting up](#Device Setting up)
+
+<a name="Introduction"></a>
+# Introduction
+Beaglebone black setting up for IoT hub. 
 # azure_iot_bbb_setup
+
+
+<a name="Device Setting up"></a>
+ # Device Setting up
+
 In  order to connect your device to  azure Internet of Things (IoT), we must create and manage an azure iot hub instance. Therefore in the this documentation, I will explain a Step-by-Step description of  a creation of an  azure Iot hub instance, how to manage it and how to connect a specific device on iothub such as Beaglebone Black (BBB).
 There are several ways to create an azure iothub depending on the working environment or platform (Linux, Windows, Mac ),the developers preferences and the type of device (Windows or Linux). The following list  Will show the difference methods used to create an iothub.
 Azure portal
