@@ -35,7 +35,7 @@ In order to perform these  steps, the following prerequisites are required:
 # Step 1: Prerequisites
 
 -   Computer with Git client installed and access to the in order to access
-    [azure-iot-sdks](https://github.com/Azure/azure-iot-sdks) GitHub
+    [azure-iot-sdks](https://github.com/azure/azure-iot-sdk-c)GitHub
     public repository.
 -   BeagleBone Black Rev C device with.
 -   SSH client on your desktop computer, if we are on linux platform there is nothing to do because SSH is available from terminal. For Windows users one can install a SSH Client such as [PuTTY](http://www.putty.org/), so you can remotely access the command line on the BeagleBone Black.
