@@ -87,7 +87,7 @@ To perform this step, we asume that the following steps are successfully done.
 
 -   Edit the following file using any text editor of your choice:
 
-        azure-iot-sdks-c/serializer/samples/simplesample_amqp/simplesample_amqp.c
+        azure-iot-sdk-c/serializer/samples/simplesample_amqp/simplesample_amqp.c
 
 -   Find the following place holder for IoT connection string:
 
