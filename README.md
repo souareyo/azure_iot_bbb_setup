@@ -72,4 +72,4 @@ In order to connect to the device, we will need its IP address to get it I used 
 
 
 
-[lnk-beaglebone_azureiot_connect]: ../beaglebone_azureiot_connect.md 
+[lnk-beaglebone_azureiot_connect]: ./beaglebone_azureiot_connect.md 
