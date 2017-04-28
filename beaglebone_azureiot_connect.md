@@ -41,8 +41,8 @@ In order to perform these  steps, the following prerequisites are required:
 -   SSH client on your desktop computer, if we are on linux platform there is nothing to do because SSH is available from terminal. For Windows users one can install a SSH Client such as [PuTTY](http://www.putty.org/), so you can remotely access the command line on the BeagleBone Black.
 -   USB Mini cable.
 -   Ethernet cable or Wi-Fi dongle.
--   [Setup your IoT hub][lnk-setup-iot-hub]
--   [Provision Beaglebone Black device and get its credentials][lnk-manage-iot-hub]
+-   [Setup IoT hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal)
+-   [Provision Beaglebone Black device and get its credentials](https://github.com/Azure/azure-iot-device-ecosystem/blob/master/manage_iot_hub.md)
 
 <a name="Step-2-PrepareDevice"></a>
 # Step 2: Prepare Beaglebone Black Rev C Device
