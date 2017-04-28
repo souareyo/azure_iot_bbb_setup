@@ -125,4 +125,4 @@ To perform this step, we asume that the following steps are successfully done.
 
 [lnk-setup-iot-hub]: ../setup_iothub.md
 [lnk-manage-iot-hub]: ../manage_iot_hub.md
-[lnk-Setup_and_manage_iothub]: ../lnk-Setup_and_manage_iothub.md
+[lnk-Setup_and_manage_iothub]: ../Setup_and_manage_iothub.md
