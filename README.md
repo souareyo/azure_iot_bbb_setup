@@ -13,7 +13,7 @@ Microsoft Azure Internet of things: Connecting Beaglebone Black to azure iothub
 -   [Introduction](#Introduction)
 -   [Device Setting up](#DeviceSettingup)
 -   [Beaglebone setup][lnk-beaglebone_azureiot_connect]
--   [Create and manage Iothub][ln-iothub_manged]
+-   [Create and manage Iothub][lnk-Setup_and_manage_iothub]
 
 <a name="Introduction"></a>
 # Introduction
@@ -74,4 +74,5 @@ In order to connect to the device, we will need its IP address to get it I used 
 
 
 [lnk-beaglebone_azureiot_connect]: ./beaglebone_azureiot_connect.md 
+[lnk-Setup_and_manage_iothub]: ./Setup_and_manage_iothub.md
 
