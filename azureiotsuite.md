@@ -16,6 +16,7 @@ Microsoft IoT includes and together a multiples services of iot suite in order t
 
 <a name ="iotsuitearchitecture"> </a>
 # IoT Suite Architecture
+The logic architecture of an iot suite can be found here
 
 <a name ="remotemonitoring"> </a>
 # Remote monitoring
