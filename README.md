@@ -20,7 +20,7 @@ Microsoft Azure Internet of things: Connecting Beaglebone Black to azure iothub
 
 <a name="Introduction"></a>
 # Introduction
-Beaglebone black setting up for IoT hub. 
+This document presents an introduction of Microsoft azure internet of things and how to connect and remotly control data from device such as beaglebone Black Rev C. The document that highlith the outlines of the document can be found [iot presntation][lnk-iotslides] 
 
 <a name="DeviceSettingup"></a>
  # Device Setting up
@@ -81,6 +81,7 @@ In order to connect to the device, we will need its IP address to get it I used 
 [lnk-iot_suite_remote_monitoring_solution]: ./iot_suite_remote_monitoring_solution.md
 [lnk-remote_monitoring_preconfig_solution]: ./remote_monitoring_preconfig_solution.md
 [lnk-remote_monitoring_with_physical_devices]: ./remote_monitoring_with_physical_devices.md
+[lnk-iot-present] : ./remote_monitoring_with_physical_devices.md
 
 
 
