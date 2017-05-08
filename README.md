@@ -11,7 +11,6 @@ Microsoft Azure Internet of things: Connecting Beaglebone Black to azure iothub
 # Table of contents
 
 -   [Introduction](#Introduction)
--   [Device Setting up](#DeviceSettingup)
 -   [Beaglebone setup][lnk-beaglebone_azureiot_connect]
 -   [Create and manage Iothub][lnk-Setup_and_manage_iothub]
 -   [IoT Suite monitoring solution][lnk-iot_suite_remote_monitoring_solution]
