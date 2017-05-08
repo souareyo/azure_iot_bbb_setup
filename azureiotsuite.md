@@ -5,6 +5,7 @@ Microsoft IoT suite
 -  [Architecture of Iot Suite](#iotsuitearchitecture)
 -  [Remote Monitoring](#remotemonitoring)
 -  [Remote Monitoring Preconfigured](#remotepreconfigred)
+-  [Remote Monitoring with
     
 
 <a name ="iotsuiteoverview"> </a>
