@@ -81,7 +81,7 @@ In order to connect to the device, we will need its IP address to get it I used 
 [lnk-iot_suite_remote_monitoring_solution]: ./iot_suite_remote_monitoring_solution.md
 [lnk-remote_monitoring_preconfig_solution]: ./remote_monitoring_preconfig_solution.md
 [lnk-remote_monitoring_with_physical_devices]: ./remote_monitoring_with_physical_devices.md
-[lnk-iot-present] : ./remote_monitoring_with_physical_devices.md
+[lnk-iot-present]: ./azure_iot_demo_1.pdfd
 
 
 
