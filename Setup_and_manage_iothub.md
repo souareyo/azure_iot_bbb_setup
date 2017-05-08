@@ -2,7 +2,7 @@
 
 Azure IoT Hub is a fully managed service that enables reliable and secure bi-directional communications between millions of IoT devices and an application back end. You can learn more about Azure IoT Hub visiting the [documentation site][iothub-landing].
 
-Before everthing any access into Microsoft azure platform, we must have an azure account. This can be a personal account, an organization account or a free account. And before you can communicate with IoT Hub from a device you must **create an IoT hub instance** in your Azure subscription and then **provision your device in your IoT hub**.
+To access into Microsoft azure platform, we must have an azure account. This can be a personal account, an organization account or a free account. Having setting up,before any device-cloud communication, we must have  **create an IoT hub instance** in your Azure subscription and then **provision your device in your IoT hub**.
 
  As  I mentioned, in order to connect your device to  azure Internet of Things (IoT), we must create and manage an azure iot hub instance. Therefore in the this documentation, I will explain a Step-by-Step description of creation of an  azure Iot hub instance, how to manage it and how to connect a specific device on iothub such as Beaglebone Black (BBB).
  
