@@ -5,7 +5,7 @@ Microsoft IoT suite
 -  [Architecture of Iot Suite](#iotsuitearchitecture)
 -  [Remote Monitoring](#remotemonitoring)
 -  [Remote Monitoring Preconfigured](#remotepreconfigred)
--  [Remote Monitoring with
+-  [Remote Monitoring with Physical Devices](#remotephysicaldevices)
     
 
 <a name ="iotsuiteoverview"> </a>
@@ -23,4 +23,6 @@ The logic architecture of an iot suite can be found ![here](https://github.com/s
 # Remote monitoring
 <a name ="remotepreconfigred"> </a>
 ## Remote monitoring Preconfigured
-
+<a name ="remotephysicaldevices"> </a>
+## Remote monitoring Physical Devices
+Beaglebone Black is used for this prototyping 
