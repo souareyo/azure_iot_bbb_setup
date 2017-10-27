@@ -19,7 +19,7 @@ Microsoft Azure Internet of things: Connecting Beaglebone Black to azure iothub
 
 <a name="Introduction"></a>
 # Introduction
-This document presents an introduction of Microsoft azure internet of things and how to connect and remotly control data from device such as beaglebone Black Rev C. The document that highlith the outlines of the document can be found [iot presntation][lnk-iot-present] 
+This document presents an introduction of Microsoft azure internet of things and how to connect and remotely control data from device such as beaglebone Black Rev C. The document that highlith the outlines of the document can be found [iot presntation][lnk-iot-present] 
 
 
 
